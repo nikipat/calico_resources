@@ -1,2 +1,2 @@
 # calico_resources
-all resource files for the stars policy demo
+This is part of an Amazon Containers workshop at https://eksworkshop.com
